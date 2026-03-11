@@ -4,7 +4,7 @@
 
 “Reframing Growth: Elite Paradigms and Korea’s Green Pivot.”  
 *Pacific Affairs* 99(1) (2026).  
-[Publisher version](https://doi.org/10.1080/0030851X.2026.2629091) | [Accepted manuscript](park-2026-reframing-growth-aam.pdf)
+[Publisher link](https://doi.org/10.1080/0030851X.2026.2629091) | [Accepted manuscript](park-2026-reframing-growth-aam.pdf)
 
 “Green Industrial Policy Race in Asia Quickens despite US Retreat.”  
 *East Asia Forum Quarterly* 17(3) (2025): 13–15. (with Yves Tiberghien).  
@@ -12,11 +12,11 @@
 
 “Centralization through Consolidation: Restructuring the Chinese Rare Earth Industry.”  
 *Peace Studies* 25(1) (2017): 117–154. (with Joo-Youn Jung).  
-[DOI](http://dx.doi.org/10.21051/PS.2017.04.25.1.117)
+[Publisher link](http://dx.doi.org/10.21051/PS.2017.04.25.1.117) | [PDF]
 
 “Between the Local Governments and Producers: Why Rare Earth Smuggling Persists in China.”  
 *Journal of International Politics* 20(2) (2015): 101–131. (with Joo-Youn Jung).  
-[DOI](http://dx.doi.org/10.18031/jip.2015.12.20.2.101)
+[Publisher link](http://dx.doi.org/10.18031/jip.2015.12.20.2.101) | [PDF]
 
 ---
 
