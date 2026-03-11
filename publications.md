@@ -4,6 +4,7 @@
 
 “Reframing Growth: Elite Paradigms and Korea’s Green Pivot.” *Pacific Affairs*, 99(1) (2026).  
 https://doi.org/10.1080/0030851X.2026.2629091
+[Accepted manuscript PDF](Park. 2026. Reframing Growth Elite Paradigms and Korea s Green Pivot_Accepted Manuscript.pdf)
 
 “Green Industrial Policy Race in Asia Quickens despite US Retreat.” *East Asia Forum Quarterly* 17(3) (2025): 13–15. (with Yves Tiberghien)
 https://eastasiaforum.org/2025/09/18/green-industrial-policy-race-in-asia-quickens-despite-us-retreat/ 
