@@ -4,7 +4,7 @@
 
 “Reframing Growth: Elite Paradigms and Korea’s Green Pivot.”  
 *Pacific Affairs* 99(1) (2026).  
-[Publisher version](https://doi.org/10.1080/0030851X.2026.2629091) | [Accepted manuscript](Files/park-2026-reframing-growth-aam.pdf)
+[Publisher version](https://doi.org/10.1080/0030851X.2026.2629091) | [Accepted manuscript](park-2026-reframing-growth-aam.pdf)
 
 “Green Industrial Policy Race in Asia Quickens despite US Retreat.”  
 *East Asia Forum Quarterly* 17(3) (2025): 13–15. (with Yves Tiberghien).  
@@ -27,11 +27,11 @@ In *East Asia’s Green Energy Transition*, eds. Lewis et al. Seattle: Universit
 
 “The Green Tech Race Is a Story for the Entrepreneurial State.”  
 In *The EU Indo-Pacific Bid: Sailing Through Economic and Security Competition*, ed. Filippo Fasulo. Milan: Italian Institute for International Political Studies (ISPI) (2023): 99–129. (with Yves Tiberghien).  
-[PDF](Files/park-tiberghien-2023-green-tech-race.pdf)
+[PDF](park-tiberghien-2023-green-tech-race.pdf)
 
 “Weaponization and Vulnerability in China’s Rare Earths Hegemony.”  
 In *World Politics 27*, ed. Joo-Youn Jung. Seoul: Center for International Studies at Seoul National University (2017): 243–295. (in Korean).  
-[PDF](Files/park-2017-rare-earth-hegemony.pdf)
+[PDF](park-2017-rare-earth-hegemony.pdf)
 
 
 
