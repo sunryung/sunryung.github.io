@@ -1,3 +1,11 @@
 title: Sun Ryung Park
 description: Political Scientist
 theme: minima
+
+header_pages:
+  - about.md
+  - publications.md
+  - policy-work.md
+  - teaching.md
+  - cv.md
+  - contact.md
