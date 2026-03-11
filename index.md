@@ -4,7 +4,11 @@ title: Home
 permalink: /
 ---
 
-I am a political scientist specializing in green industrial policy, energy transition politics, and the comparative political economy of East Asia. My research focuses in particular on Korea, Japan, and Taiwan.
+I study how democratic states in Northeast Asia build and deploy strategic state capacity to navigate industrial and technological transformation. My research examines how governments reconcile decarbonization goals with geopolitical competition and industrial strategy.
+
+Focusing on Korea, Japan, and Taiwan, I analyze the political economy of energy transition, EV and battery supply chains, and critical mineral governance under intensifying US–China technological rivalry.
+
+I am a Senior Research Specialist at the Asia Pacific Foundation of Canada and received my PhD in Political Science from the University of British Columbia.
 
 
 
