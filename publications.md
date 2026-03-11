@@ -6,10 +6,13 @@
 https://doi.org/10.1080/0030851X.2026.2629091
 
 “Green Industrial Policy Race in Asia Quickens despite US Retreat.” *East Asia Forum Quarterly* 17(3) (2025): 13–15. (with Yves Tiberghien)
+https://eastasiaforum.org/2025/09/18/green-industrial-policy-race-in-asia-quickens-despite-us-retreat/ 
 
 “Centralization through Consolidation: Restructuring the Chinese Rare Earth Industry.” *Peace Studies* 25(1) (2017): 117–154. (First author, with Joo-Youn Jung)
+http://dx.doi.org/10.21051/PS.2017.04.25.1.117 
 
 “Between the Local Governments and Producers: Why Rare Earth Smuggling Persists in China.” *Journal of International Politics* 20(2) (2015): 101–131. (First author, with Joo-Youn Jung)
+http://dx.doi.org/10.18031/jip.2015.12.20.2.101 
 
 ---
 
