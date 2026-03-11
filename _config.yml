@@ -1,7 +1,6 @@
 title: Sun Ryung Park
 description: Political Scientist
-I am a political scientist specializing in green industrial policy, energy transition politics, and the comparative political economy of East Asia. My research focuses in particular on Korea, Japan, and Taiwan.
-theme: minima
+theme: jekyll-theme-minimal
 
 header_pages:
   - about.md
