@@ -1,13 +1,6 @@
 # Sun Ryung Park
 
-Political Scientist  
-Green Industrial Policy | Energy Transition | East Asia
+Political Scientist
 
-## Research
-My research focuses on green industrial policy and the political economy of energy transition in East Asia.
+[Research](research.md) | [Publications](publications.md) | [Policy Work](policy.md) | [CV](cv.md) | [Contact](contact.md)
 
-## Publications
-Coming soon.
-
-## Contact
-Email: sunryungpark@gmail.com
