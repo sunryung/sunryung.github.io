@@ -1,3 +1,4 @@
+#  About
 
 I navigate how democratic states in Northeast Asia build and deploy strategic state capacity in industrial and technological transformation. 
 
