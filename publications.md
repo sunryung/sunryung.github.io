@@ -4,7 +4,7 @@
 
 “Reframing Growth: Elite Paradigms and Korea’s Green Pivot.” *Pacific Affairs*, 99(1) (2026).  
 https://doi.org/10.1080/0030851X.2026.2629091
-[Accepted manuscript PDF](Park. 2026. Reframing Growth Elite Paradigms and Korea s Green Pivot_Accepted Manuscript.pdf)
+[Accepted Manuscript PDF](Park. 2026. Reframing Growth Elite Paradigms and Korea s Green Pivot_Accepted Manuscript.pdf)
 
 “Green Industrial Policy Race in Asia Quickens despite US Retreat.” *East Asia Forum Quarterly* 17(3) (2025): 13–15. (with Yves Tiberghien)
 https://eastasiaforum.org/2025/09/18/green-industrial-policy-race-in-asia-quickens-despite-us-retreat/ 
@@ -28,3 +28,4 @@ In *The EU Indo-Pacific Bid: Sailing Through Economic and Security Competition*,
 
 “Weaponization and Vulnerability in China’s Rare Earths Hegemony.”  
 In *World Politics 27*, ed. Joo-Youn Jung. Seoul: Center for International Studies at Seoul National University (2017): 243–295. (in Korean)
+[PDF Download](박선령. 2017. 제6장. 중국의 자원무기화-희토류 패권의 취약성.pdf)
