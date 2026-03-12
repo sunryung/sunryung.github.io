@@ -8,7 +8,7 @@ header_pages:
   - policy-work.md
   - teaching.md
   - cv.md
-  - contact.md
+  - contact.md 
 
 permalink: /:title/
 
