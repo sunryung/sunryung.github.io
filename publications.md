@@ -16,7 +16,7 @@ permalink: /publications/
 
 “Centralization through Consolidation: Restructuring the Chinese Rare Earth Industry.”  
 *Peace Studies* 25(1) (2017): 117–154. (with Joo-Youn Jung).  
-[Publisher link](http://dx.doi.org/10.21051/PS.2017.04.25.1.117) | [PDF]
+[Publisher link](http://dx.doi.org/10.21051/PS.2017.04.25.1.117) | [PDF](park-jung-2017-centralization.pdf)
 
 “Between the Local Governments and Producers: Why Rare Earth Smuggling Persists in China.”  
 *Journal of International Politics* 20(2) (2015): 101–131. (with Joo-Youn Jung).  
