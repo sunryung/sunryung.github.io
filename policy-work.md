@@ -13,15 +13,24 @@ My policy research focuses on the political economy of energy transition, indust
 * “[An Entrepreneurial State in Green Transition: Korea’s Energy Security and Canada–ROK Co-operation](https://www.cgai.ca/an_entrepreneurial_state_in_green_transition_koreas_energy_security_and_canada_rok_co_operation)” — **Canadian Global Affairs Institute (CGAI)**, 2023.
 * “Race to Go Green: Green Industrial Policy in East Asia” — **PAFTAD Working Paper**, 2023.
 
+
 ## Policy Commentary and Analysis
 
-* “[What Yoon Suk Yeol’s Life Sentence Means for South Korea’s Democracy](https://www.asiapacific.ca/publication/what-yoon-suk-yeols-life-sentence-means-south-korea-democracy)” — **APFC Insights**, Feb. 2026.
-* “[After Landslide Win, Takaichi Looks to Put Ambitious Agenda in Motion](https://www.asiapacific.ca/publication/after-landslide-win-takaichi-looks-put-ambitious-agenda)” — **APFC Insights**, Jan. 2026.
-* “[APEC Summit Sees Flurry of Deals, Uneasy U.S.–China Truce](https://www.asiapacific.ca/publication/apec-summit-sees-flurry-deals-uneasy-us-china-truce)” — **APFC Insights**, Nov. 2025.
-* “[Takaichi Sanae Confirmed as Japan’s First Woman Prime Minister](https://www.asiapacific.ca/publication/sanae-takaichi-confirmed-japans-first-woman-prime-minister)” — **APFC Insights**, Oct. 2025 (with Mei Terasawa).
-* “[South Korea Looks to Canadian Energy to Fuel Its AI Ambitions](https://www.asiapacific.ca/publication/south-korea-looks-canadian-energy-fuel-its-ai-ambitions)” — **APFC Dispatch**, Sep. 2025.
-* “[Ishiba Flounders as Coalition Collapses in Japan’s Upper House Election](https://www.asiapacific.ca/publication/ishiba-flounders-coalition-collapses-japans-upper-house)” — **APFC Insights**, Jul. 2025 (with Hyun Kim).
-* “[Japan Tweaks Trump Strategy as Tariffs Begin to Hit](https://www.asiapacific.ca/publication/japan-tweaks-trump-strategy-tariffs-begin-hit)” — **APFC Dispatch**, May 2025.
+* [What Yoon Suk Yeol’s Life Sentence Means for South Korea’s Democracy](https://www.asiapacific.ca/publication/what-yoon-suk-yeols-life-sentence-means-south-korea-democracy) — **APFC Insights**, Feb. 2026.
+* [After Landslide Win, Takaichi Looks to Put Ambitious Agenda in Motion](https://www.asiapacific.ca/publication/after-landslide-win-takaichi-looks-put-ambitious-agenda) — **APFC Insights**, Jan. 2026.
+* [APEC Summit Sees Flurry of Deals, Uneasy U.S.–China Truce](https://www.asiapacific.ca/publication/apec-summit-sees-flurry-deals-uneasy-us-china-truce) — **APFC Insights**, Nov. 2025.
+* [Takaichi Sanae Confirmed as Japan’s First Woman Prime Minister](https://www.asiapacific.ca/publication/sanae-takaichi-confirmed-japans-first-woman-prime-minister) — **APFC Insights**, Oct. 2025 (with Mei Terasawa).
+* [South Korea Looks to Canadian Energy to Fuel Its AI Ambitions](https://www.asiapacific.ca/publication/south-korea-looks-canadian-energy-fuel-its-ai-ambitions) — **APFC Dispatch**, Sep. 2025.
+* [Ishiba Flounders as Coalition Collapses in Japan’s Upper House Election](https://www.asiapacific.ca/publication/ishiba-flounders-coalition-collapses-japans-upper-house) — **APFC Insights**, Jul. 2025 (with Hyun Kim).
+* [Japan Tweaks Trump Strategy as Tariffs Begin to Hit](https://www.asiapacific.ca/publication/japan-tweaks-trump-strategy-tariffs-begin-hit) — **APFC Dispatch**, May 2025.
+
+
+## Magazine Articles and Commentary
+
+* [Less Regulation, More Innovation in Japan’s AI Governance](https://eastasiaforum.org/2025/05/21/less-regulation-more-innovation-in-japans-ai-governance/) — **East Asia Forum**, May 2025.
+* [South Korea’s Nuclear U-turn Threatens Its Green Energy Transition](https://eastasiaforum.org/2023/03/16/south-korea-nuclear-u-turn-threatens-its-green-energy-transition/) — **East Asia Forum**, Mar. 2023 (with Charlotte Bull).
+* [The Indo-Pacific’s Green Industrial Policy Race](https://eastasiaforum.org/2022/11/01/the-indo-pacifics-green-industrial-policy-race/) — **East Asia Forum**, Nov. 2022 (with Yves Tiberghien).
+
 
 ## Media and Public Engagement
 
