@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "minima";
 
 /* Page width */
 .wrapper {
@@ -58,7 +58,6 @@ h2 {
   padding-bottom: 0.25rem;
 }
 
-/* Links */
 a {
   color: #0f4c81;
 }
@@ -68,29 +67,24 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Paragraph spacing */
 p {
   margin-bottom: 1rem;
 }
 
-/* Lists */
 li {
   margin-bottom: 0.35rem;
 }
 
-/* Main page spacing */
 .page-content {
   padding-top: 28px;
   padding-bottom: 36px;
 }
 
-/* Footer */
 .site-footer {
   color: #666666;
   font-size: 0.9rem;
 }
 
-/* Hide big repeated page title if desired */
 .page-heading {
   margin-bottom: 1.2rem;
 }
