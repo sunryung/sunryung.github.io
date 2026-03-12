@@ -3,12 +3,12 @@
 
 @import "minima";
 
-/* Page width */
+/* Page width and container */
 .wrapper {
-  max-width: 940px;
+  max-width: 860px; /* Slightly narrower for better readability on desktops */
 }
 
-/* Overall typography */
+/* Overall typography: Minimalist & Academic */
 body {
   font-family: Georgia, "Times New Roman", serif;
   font-size: 18px;
@@ -19,47 +19,49 @@ body {
 
 /* Site title */
 .site-title {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   font-weight: 600;
   letter-spacing: 0.2px;
   color: #111111 !important;
 }
 
-/* Navigation */
+/* Navigation: Using your preferred Deep Blue for hover */
 .site-nav .page-link {
-  color: #444444 !important;
+  color: #555555 !important;
   font-size: 0.95rem;
-  margin-left: 18px;
+  margin-left: 20px;
 }
 
 .site-nav .page-link:hover {
-  color: #0f4c81 !important;
+  color: #0f4c81 !important; /* Deep Blue */
   text-decoration: none;
 }
 
-/* Headings */
-h1, h2, h3, h4 {
-  font-family: Georgia, "Times New Roman", serif;
-  font-weight: 600;
+/* Headings: Clean lines and consistent hierarchy */
+h1, h2, h3 {
+  font-family: Georgia, serif;
   color: #111111;
-  line-height: 1.3;
+  font-weight: 600;
 }
 
 h1 {
   font-size: 2rem;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 h2 {
   font-size: 1.35rem;
-  margin-top: 2.2rem;
-  margin-bottom: 0.8rem;
-  border-bottom: 1px solid #d8d8d8;
-  padding-bottom: 0.25rem;
+  margin-top: 2.8rem; /* More space above categories */
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #d8d8d8; /* Subtle grey line */
+  color: #24292e;
 }
 
+/* Links: Professional Blue (#0f4c81) */
 a {
   color: #0f4c81;
+  text-decoration: none;
+  transition: color 0.2s ease;
 }
 
 a:hover {
@@ -67,39 +69,34 @@ a:hover {
   text-decoration: underline;
 }
 
+/* Lists and Content spacing */
 p {
-  margin-bottom: 1rem;
-}
-
-li {
-  margin-bottom: 0.35rem;
-}
-
-.page-content {
-  padding-top: 28px;
-  padding-bottom: 36px;
-}
-
-.site-footer {
-  color: #666666;
-  font-size: 0.9rem;
-}
-
-.page-heading {
   margin-bottom: 1.2rem;
 }
 
+ul li {
+  margin-bottom: 0.85rem; /* Better breathing room for citations */
+  line-height: 1.6;
+}
+
+.page-content {
+  padding-top: 35px;
+  padding-bottom: 40px;
+}
+
+/* Footer: Minimalist & Centered */
 .site-footer {
   text-align: center;
   font-size: 0.85rem;
   color: #777;
   border-top: 1px solid #e8e8e8;
-  padding: 18px 0;
+  padding: 30px 0;
+  margin-top: 40px;
 }
 
+/* Hide default Minima footer columns for a cleaner look */
 .footer-heading,
 .contact-list,
 .social-media-list {
   display: none;
 }
-
