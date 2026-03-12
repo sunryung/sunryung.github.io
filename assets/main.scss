@@ -88,3 +88,18 @@ li {
 .page-heading {
   margin-bottom: 1.2rem;
 }
+
+.site-footer {
+  text-align: center;
+  font-size: 0.85rem;
+  color: #777;
+  border-top: 1px solid #e8e8e8;
+  padding: 18px 0;
+}
+
+.footer-heading,
+.contact-list,
+.social-media-list {
+  display: none;
+}
+
