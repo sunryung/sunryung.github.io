@@ -20,7 +20,7 @@ permalink: /publications/
 
 “Between the Local Governments and Producers: Why Rare Earth Smuggling Persists in China.”  
 *Journal of International Politics* 20(2) (2015): 101–131. (with Joo-Youn Jung).  
-[Publisher link](http://dx.doi.org/10.18031/jip.2015.12.20.2.101) | [PDF]
+[Publisher link](http://dx.doi.org/10.18031/jip.2015.12.20.2.101) | [PDF](park-jung-2015-between-the-local.pdf)
 
 ---
 
