@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications
-permalink: /publications/
 ---
 
 ## Peer-Reviewed Journal Articles
