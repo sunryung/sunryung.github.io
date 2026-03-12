@@ -1,19 +1,21 @@
 ---
-layout: page
-title: Home
-permalink: /
+layout: home
 ---
 
-I study how democratic states in Northeast Asia build and deploy strategic state capacity in industrial and technological transformation. My research focuses on how governments reconcile decarbonization goals with geopolitical competition and industrial strategy.
+# Sun Ryung Park
 
-Focusing on Korea, Japan, and Taiwan, I analyze the political economy of energy transition, EV and battery supply chains, and critical mineral governance under intensifying US–China technological rivalry.
+**Political Economist | PhD (UBC)**
 
-I am a Senior Research Specialist at the Asia Pacific Foundation of Canada and received my PhD in Political Science from the University of British Columbia.
+I specialize in the political economy of **green industrial transformation** and **state capacity** in Northeast Asia. My work analyzes how South Korea, Japan, and Taiwan navigate the intersection of decarbonization and the US-China geopolitical competition.
 
-## Recent Publication
+### Current 
+* **Senior Research Specialist**, Asia Pacific Foundation of Canada (APFC)
+* **Visiting Research Fellow**, Taipei School of Economics and Political Science (TSE), National Tsing Hua University (*Spring 2026*)
 
-“Reframing Growth: Elite Paradigms and Korea’s Green Pivot.”  
-*Pacific Affairs* 99(1) (2026).  
-[Publisher link](https://doi.org/10.1080/0030851X.2026.2629091) | [PDF](park-2026-reframing-growth-aam.pdf)
+---
+
+*“Analyzing the strategic response of democratic states to technological disruption and supply chain restructuring.”*
+
+
 
 
