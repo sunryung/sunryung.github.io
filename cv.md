@@ -3,6 +3,5 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-You can download my CV here:
+Details are coming soon.
 
-[Download CV](cv.pdf)
