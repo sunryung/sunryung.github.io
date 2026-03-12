@@ -14,7 +14,7 @@ Currently, I am a **Senior Research Specialist at the Asia Pacific Foundation of
 My multidisciplinary foundation—including M.A. (Political Science) and B.A. (Double Major in Politics, Economics, and Law) from Korea University—informs my integrated approach to analyzing the regulatory frameworks and industrial policies that define the modern energy transition.
 
 ### Affiliations & Support
-My research has been supported by several international fellowships, including the Taiwan Fellowship (Ministry of Foreign Affairs), the PAFTAD Young Scholar Fellowship, and various research awards from the University of British Columbia. I have held visiting and research affiliations with the Taipei School of Economics and Political Science (TSE), National Chengchi University, and the Institute of Asian Research at UBC. 
+My research has been supported by several international fellowships, including the Taiwan Fellowship (Ministry of Foreign Affairs), the PAFTAD Young Scholar Fellowship (ANU), and various research awards from the University of British Columbia. I have held visiting and research affiliations with the Taipei School of Economics and Political Science (TSE), National Chengchi University, and the Institute of Asian Research at UBC. 
 
 ### Personal
 Beyond my academic and policy work, I am a dedicated swimmer and an amateur pianist.
