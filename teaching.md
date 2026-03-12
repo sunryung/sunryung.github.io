@@ -1,3 +1,7 @@
-# Teaching 
+---
+layout: page
+title: Teaching
+permalink: /teaching/
+---
 
-Details coming soon.
+Details are coming soon.
