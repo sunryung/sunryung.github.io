@@ -17,12 +17,20 @@ body {
   background-color: #fcfcfa;
 }
 
-/* Site title */
+
+/* Enhanced Site Title - Cobalt Blue & Larger */
 .site-title {
-  font-size: 1.4rem;
-  font-weight: 600;
-  letter-spacing: 0.2px;
-  color: #111111 !important;
+  font-size: 2.2rem !important; /* Increased from 1.5rem */
+  font-weight: 700 !important;
+  letter-spacing: -0.5px; /* Tighter tracking for a modern look */
+  color: #0047AB !important; /* Authentic Cobalt Blue */
+}
+
+/* Ensure it looks good on mobile too */
+@media screen and (max-width: 600px) {
+  .site-title {
+    font-size: 1.8rem !important;
+  }
 }
 
 /* Navigation: Using your preferred Deep Blue for hover */
