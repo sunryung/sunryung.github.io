@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Policy Work 
+title: Policy Work
+permalink: /policy-work/
 ---
 
 My policy research focuses on the political economy of energy transition, industrial strategy, AI governance, and geopolitical landscape in the Indo-Pacific. I analyze how governments respond to technological disruption, supply chain restructuring, and strategic competition in sectors such as clean energy, EVs, and critical minerals.
