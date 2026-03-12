@@ -5,6 +5,7 @@ permalink: /contact/
 ---
 
 Email: 
+
 Academic: [sunryung@student.ubc.ca](mailto:sunryung@student.ubc.ca)  
 Professional: [sunryung.park@asiapacific.ca](mailto:sunryung.park@asiapacific.ca)
 
