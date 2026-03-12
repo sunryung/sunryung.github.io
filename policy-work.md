@@ -29,7 +29,7 @@ PAFTAD Working Paper, 2023.
 
 "What Yoon Suk Yeol’s Life Sentence Means for South Korea’s Democracy." Asia Pacific Foundation of Canada (APFC) Insights, Feb. 2026. [Link](https://www.asiapacific.ca/publication/what-yoon-suk-yeols-life-sentence-means-south-korea-democracy)
 
-"After Landslide Win, Takaichi Looks to Put Ambitious Agenda in Motion." APFC Insights, Jan. 2026. [Link](https://www.asiapacific.ca/publication/after-landslide-win-takaichi-looks-put-ambitious-agenda).
+"After Landslide Win, Takaichi Looks to Put Ambitious Agenda in Motion." APFC Insights, Jan. 2026. [Link](https://www.asiapacific.ca/publication/after-landslide-win-takaichi-looks-put-ambitious-agenda)
 
 “APEC Summit Sees Flurry of Deals, Uneasy U.S.–China Truce.”  
 APFC Insights, Nov. 2025. [Link](https://www.asiapacific.ca/publication/apec-summit-sees-flurry-deals-uneasy-us-china-truce)
@@ -78,10 +78,10 @@ Interviewed for commentary, *MediaPart*, Feb. 10, 2026. [Link](https://www.media
 
 Interviewed for commentary, *Global News*, Oct. 21, 2025. [Video](https://www.youtube.com/watch?v=ZKFdQLcOAuM). Timecode: 0:24 and 1:32
 
-Interviewed for commentary, *Channel News Asia*, Sep. 4, 2025. [Video](https://www.youtube.com/watch?v=1u7C57e0hRo). Timecode: 31:18
+Interviewed for commentary, *Channel News Asia*, Sep. 4, 2025. [Video](https://www.youtube.com/watch?v=1u7C57e0hRo) Timecode: 31:18
 
 Interviewed for expert commentary, *RTVE*, Jun. 2, 2025. [Link](https://www.rtve.es/noticias/20250602/elecciones-corea-sur-resiliencia-democracia-fallido-golpe-estado/16589195.shtml)
 
-Live TV interview, *Bloomberg Television — Insight with Haslinda Amin*, Dec. 29, 2024. [Video](https://www.bloomberg.com/news/videos/2024-12-30/insight-with-haslinda-amin-12-30-2024-video). Timecode: 25:20
+Live TV interview, *Bloomberg Television — Insight with Haslinda Amin*, Dec. 29, 2024. [Video](https://www.bloomberg.com/news/videos/2024-12-30/insight-with-haslinda-amin-12-30-2024-video) Timecode: 25:20
 
 Podcast guest, *Energy Security Cubed*, Canadian Global Affairs Institute, Jan. 4, 2024. [Link](https://www.cgai.ca/how_canada_strengthens_korean_energy_security_with_sun_ryung_park)
