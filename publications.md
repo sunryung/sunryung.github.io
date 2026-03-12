@@ -31,7 +31,7 @@ In *East Asia’s Green Energy Transition*, eds. Lewis et al. Seattle: Universit
 
 “The Green Tech Race Is a Story for the Entrepreneurial State.”  
 In *The EU Indo-Pacific Bid: Sailing Through Economic and Security Competition*, ed. Filippo Fasulo. Milan: Italian Institute for International Political Studies (ISPI) (2023): 99–129. (with Yves Tiberghien).  
-[PDF](park-tiberghien-2023-green-tech-race.pdf)
+[Publisher link](https://www.ispionline.it/en/publication/the-eu-indo-pacific-bid-sailing-through-economic-and-security-competition-125901) | [PDF](park-tiberghien-2023-green-tech-race.pdf)
 
 “Weaponization and Vulnerability in China’s Rare Earths Hegemony.”  
 In *World Politics 27*, ed. Joo-Youn Jung. Seoul: Center for International Studies at Seoul National University (2017): 243–295. (in Korean).  
