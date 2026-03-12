@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
 I am a political scientist specializing in the political economy of green industrial transformation in Northeast Asia. My research examines how democratic states build and deploy strategic state capacity to navigate industrial restructuring under conditions of geopolitical competition and technological change.
