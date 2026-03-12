@@ -11,3 +11,5 @@ header_pages:
   - contact.md
 
 copyright: "© 2026 Sun Ryung Park"
+
+permalink: /:title/
