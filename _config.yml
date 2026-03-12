@@ -10,6 +10,7 @@ header_pages:
   - cv.md
   - contact.md
 
+permalink: /:title/
+
 copyright: "© 2026 Sun Ryung Park"
 
-permalink: /:title/
