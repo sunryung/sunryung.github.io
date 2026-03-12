@@ -14,7 +14,7 @@ Currently, I am a **Senior Research Specialist at the Asia Pacific Foundation of
 I completed my Ph.D. in Political Science at the University of British Columbia (2025). My dissertation, *Race to Go Green: Three Pathways in Green Industrial Revolution*, examined the intersection of elite cognition and paradigm shifts in green governance across East Asia. My academic foundation includes an M.A. and B.A. in Political Science from Korea University, with a double major in Politics, Economics, and Law.
 
 ### Affiliations & Support
-My research has been supported by several international fellowships, including the Taiwan Fellowship (Ministry of Foreign Affairs), the PAFTAD Young Scholar Fellowship (ANU), and various research awards from the University of British Columbia. I hold—and have previously held—visiting and research affiliations with TSE, National Chengchi University, and the Institute of Asian Research at UBC. 
+My research has been supported by several international fellowships, including the Taiwan Fellowship (Ministry of Foreign Affairs), the PAFTAD Young Scholar Fellowship (Australian National University), and various research awards from the University of British Columbia. I hold—and have previously held—visiting and research affiliations with TSE, National Chengchi University, and the Institute of Asian Research at UBC. 
 
 ### Personal
 Beyond my academic and policy work, I am a dedicated swimmer and an amateur pianist.
