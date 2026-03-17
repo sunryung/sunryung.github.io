@@ -17,7 +17,7 @@ My policy research focuses on the political economy of energy transition, indust
 
 ## Policy Commentary and Analysis
 
-* [With New Landmark Partnership, Canada and Japan Expand, Redefine Co-operation] (https://www.asiapacific.ca/publication/new-landmark-partnership-canada-and-japan-expand-redefine-co) - **APFC Dispatches**, March 2026.
+* [With New Landmark Partnership, Canada and Japan Expand, Redefine Co-operation](https://www.asiapacific.ca/publication/new-landmark-partnership-canada-and-japan-expand-redefine-co) - **APFC Dispatches**, March 2026.
 * [What Yoon Suk Yeol’s Life Sentence Means for South Korea’s Democracy](https://www.asiapacific.ca/publication/what-yoon-suk-yeols-life-sentence-means-south-korea-democracy) — **APFC Insights**, Feb. 2026.
 * [After Landslide Win, Takaichi Looks to Put Ambitious Agenda in Motion](https://www.asiapacific.ca/publication/after-landslide-win-takaichi-looks-put-ambitious-agenda) — **APFC Insights**, Jan. 2026.
 * [APEC Summit Sees Flurry of Deals, Uneasy U.S.–China Truce](https://www.asiapacific.ca/publication/apec-summit-sees-flurry-deals-uneasy-us-china-truce) — **APFC Insights**, Nov. 2025.
