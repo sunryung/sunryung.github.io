@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Peer-Reviewed Journal Articles
 
-* “[Reframing Growth: Elite Paradigms and Korea’s Green Pivot](https://doi.org/10.1080/0030851X.2026.2629091).” *Pacific Affairs* 99(1) (2026). [[Accepted Manuscript](park-2026-reframing-growth-aam.pdf)]
+* “[Reframing Growth: Elite Paradigms and Korea’s Green Pivot](https://www.tandfonline.com/doi/full/10.1080/0030851X.2026.2629091).” *Pacific Affairs* 99(1) (2026):25-44. [[Accepted Manuscript](park-2026-reframing-growth-aam.pdf)]
 
 * “[Green Industrial Policy Race in Asia Quickens despite US Retreat](https://eastasiaforum.org/2025/09/18/green-industrial-policy-race-in-asia-quickens-despite-us-retreat/).” *East Asia Forum Quarterly* 17(3) (2025): 13–15. (with Yves Tiberghien).
 
