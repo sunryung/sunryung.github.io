@@ -11,5 +11,5 @@ My work analyzes how South Korea, Japan, and Taiwan navigate the intersection of
 
 ### Current
 * **Senior Research Specialist**, Asia Pacific Foundation of Canada (APFC)
-* **Visiting Research Fellow**, Taipei School of Economics and Political Science (TSE), National Tsing Hua University (*Spring 2026*)
+* **Visiting Research Fellow**, Taipei School of Economics and Political Science (TSE), National Tsing Hua University 
 
