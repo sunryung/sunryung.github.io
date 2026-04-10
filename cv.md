@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-CV_Sun Ryung Park (Park_CV_202604.pdf)
+[CV_Sun Ryung Park](Park_CV_202604.pdf)
