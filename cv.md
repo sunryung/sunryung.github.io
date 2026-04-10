@@ -4,5 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-Details are coming soon.
-
+CV_Sun Ryung Park (Park_CV_202604.pdf)
