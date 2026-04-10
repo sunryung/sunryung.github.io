@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-[Download CV](https://sunryung.github.io/Park_CV_202604.pdf)
+[Download CV](Park_CV_202604.pdf)
