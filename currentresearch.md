@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Current Projects
-permalink: /currentprojects/
+title: Current Research
+permalink: /currentresearch/
 ---
 
 ## Book Project
