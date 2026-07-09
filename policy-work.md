@@ -4,7 +4,7 @@ title: Policy Work
 permalink: /policy-work/
 ---
 
-My policy research focuses on the political economy of energy transition, industrial strategy, AI governance, and geopolitical landscape in the Indo-Pacific. I analyze how governments respond to technological disruption, supply chain restructuring, and strategic competition in sectors such as clean energy, EVs, and critical minerals.
+My policy research focuses on the political economy of energy transition, industrial strategy, AI governance, and geopolitical landscape in the Indo-Pacific. I analyze how governments respond to technological disruption, supply chain restructuring, and strategic competition in sectors such as green technologies, EVs, AI-chips, and critical minerals.
 
 ## Policy Reports and Research Papers
 
@@ -17,6 +17,8 @@ My policy research focuses on the political economy of energy transition, indust
 
 ## Policy Commentary and Analysis
 
+* [What Ottawa’s TKMS Submarine Decision Means for Canada–South Korea Ties] (https://www.asiapacific.ca/publication/what-ottawas-tkms-submarine-decision-means-for-canada-south-korea-relations) - **APFC Insights**, July 2026.
+* [How Canada and Taiwan Can Team Up on AI, Chips, and Critical Minerals](http://asiapacific.ca/publication/how-canada-and-taiwan-can-team-ai-chips-and-critical-minerals) - **APFC Dispatches**, June 2026.
 * [The Case for Canada–Japan Co-operation on Semiconductors and Supply Chains](https://www.asiapacific.ca/publication/canada-japan-co-operation-semiconductors-and-supply-chain) — **APFC Dispatches**, April 2026.
 * [With New Landmark Partnership, Canada and Japan Expand, Redefine Co-operation](https://www.asiapacific.ca/publication/new-landmark-partnership-canada-and-japan-expand-redefine-co) — **APFC Dispatches**, March 2026.
 * [What Yoon Suk Yeol’s Life Sentence Means for South Korea’s Democracy](https://www.asiapacific.ca/publication/what-yoon-suk-yeols-life-sentence-means-south-korea-democracy) — **APFC Insights**, Feb. 2026.
