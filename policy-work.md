@@ -17,6 +17,7 @@ My policy research focuses on the political economy of energy transition, indust
 
 ## Policy Commentary and Analysis
 
+* "[Canada and South Korea Need a Critical Minerals Partnership that Delivers](https://www.policymagazine.ca/canada-and-south-korea-need-a-critical-minerals-partnership-that-delivers/)" - **Policy Magazines**, Aug. 2026.
 * [What Ottawa’s TKMS Submarine Decision Means for Canada–South Korea Ties](https://www.asiapacific.ca/publication/what-ottawas-tkms-submarine-decision-means-for-canada-south-korea-relations) - **APFC Insights**, July 2026.
 * [How Canada and Taiwan Can Team Up on AI, Chips, and Critical Minerals](http://asiapacific.ca/publication/how-canada-and-taiwan-can-team-ai-chips-and-critical-minerals) - **APFC Dispatches**, June 2026.
 * [The Case for Canada–Japan Co-operation on Semiconductors and Supply Chains](https://www.asiapacific.ca/publication/canada-japan-co-operation-semiconductors-and-supply-chain) — **APFC Dispatches**, April 2026.
