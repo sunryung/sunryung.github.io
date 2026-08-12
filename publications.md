@@ -20,7 +20,7 @@ permalink: /publications/
 
 ## Book Chapters
 
-* “Green Technology Transition from Above: Drivers and Constraints in Japan and Korea.” In *East Asia’s Green Energy Transition*, eds. Lewis et al. Seattle: University of Washington Press (forthcoming 2026). (with Yves Tiberghien).
+* “Green Technology Transition from Above: Drivers and Constraints in Japan and Korea.” In *Decarbonization in East Asia: Challenges of Green Energy Transitions*, eds. Lewis et al. Seattle: University of Washington Press (forthcoming 2026). (with Yves Tiberghien).
 
 * “[The Green Tech Race Is a Story for the Entrepreneurial State](https://www.ispionline.it/en/publication/the-eu-indo-pacific-bid-sailing-through-economic-and-security-competition-125901).” In *The EU Indo-Pacific Bid: Sailing Through Economic and Security Competition*, ed. Filippo Fasulo. Milan: Italian Institute for International Political Studies (ISPI) (2023): 99–129. (with Yves Tiberghien). [[PDF](park-tiberghien-2023-green-tech-race.pdf)]
 
