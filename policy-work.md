@@ -8,16 +8,16 @@ My policy research focuses on the political economy of energy transition, indust
 
 ## Policy Reports and Research Papers
 
-* “[Chinese Electric Vehicle Industry Going Global](https://www.china-institute.ualberta.ca/)” — **China Institute, University of Alberta** (forthcoming 2026).
-* “[Canada–Republic of Korea Defense and Security Co-operation](https://www.asiapacific.ca/publication/backgrounder-canada-republic-korea-track-defence-and-security-cooperation)” — **APFC**, Dec. 2025.
-* “[Background Note on the 10th Anniversary of the Canada–Korea Free Trade Agreement](https://www.asiapacific.ca/publication/background-note-10th-anniversary-canada-korea-free-trade-agreement-2025)” — **APFC**, Oct. 2025 (with Hyun Kim and Jeehye Kim).
-* “[An Entrepreneurial State in Green Transition: Korea’s Energy Security and Canada–ROK Co-operation](https://www.cgai.ca/an_entrepreneurial_state_in_green_transition_koreas_energy_security_and_canada_rok_co_operation)” — **Canadian Global Affairs Institute (CGAI)**, Nov. 2023.
-* “Race to Go Green: Green Industrial Policy in East Asia” — **PAFTAD Working Paper**, Sep. 2023.
+* [Chinese Electric Vehicle Industry Going Global](https://www.china-institute.ualberta.ca/) — **China Institute, University of Alberta** (forthcoming 2026).
+* [Canada–Republic of Korea Defense and Security Co-operation](https://www.asiapacific.ca/publication/backgrounder-canada-republic-korea-track-defence-and-security-cooperation) — **APFC**, Dec. 2025.
+* [Background Note on the 10th Anniversary of the Canada–Korea Free Trade Agreement](https://www.asiapacific.ca/publication/background-note-10th-anniversary-canada-korea-free-trade-agreement-2025) — **APFC**, Oct. 2025 (with Hyun Kim and Jeehye Kim).
+* [An Entrepreneurial State in Green Transition: Korea’s Energy Security and Canada–ROK Co-operation](https://www.cgai.ca/an_entrepreneurial_state_in_green_transition_koreas_energy_security_and_canada_rok_co_operation)” — **Canadian Global Affairs Institute (CGAI)**, Nov. 2023.
+* Race to Go Green: Green Industrial Policy in East Asia — **PAFTAD Working Paper**, Sep. 2023.
 
 
 ## Policy Commentary and Analysis
 
-* "[Canada and South Korea Need a Critical Minerals Partnership that Delivers](https://www.policymagazine.ca/canada-and-south-korea-need-a-critical-minerals-partnership-that-delivers/)" - **Policy Magazines**, Aug. 2026.
+* [Canada and South Korea Need a Critical Minerals Partnership that Delivers](https://www.policymagazine.ca/canada-and-south-korea-need-a-critical-minerals-partnership-that-delivers/) - **Policy Magazines**, Aug. 2026.
 * [What Ottawa’s TKMS Submarine Decision Means for Canada–South Korea Ties](https://www.asiapacific.ca/publication/what-ottawas-tkms-submarine-decision-means-for-canada-south-korea-relations) - **APFC Insights**, July 2026.
 * [How Canada and Taiwan Can Team Up on AI, Chips, and Critical Minerals](http://asiapacific.ca/publication/how-canada-and-taiwan-can-team-ai-chips-and-critical-minerals) - **APFC Dispatches**, June 2026.
 * [The Case for Canada–Japan Co-operation on Semiconductors and Supply Chains](https://www.asiapacific.ca/publication/canada-japan-co-operation-semiconductors-and-supply-chain) — **APFC Dispatches**, April 2026.
