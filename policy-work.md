@@ -8,7 +8,7 @@ My policy research focuses on the political economy of energy transition, indust
 
 ## Policy Reports and Research Papers
 
-* [Chinese Electric Vehicle Industry Going Global] — **China Institute, University of Alberta** (forthcoming 2026).
+* Chinese Electric Vehicle Industry Going Global — **China Institute, University of Alberta** (forthcoming 2026).
 * [Canada–Republic of Korea Defense and Security Co-operation](https://www.asiapacific.ca/publication/backgrounder-canada-republic-korea-track-defence-and-security-cooperation) — **APFC**, Dec. 2025.
 * [Background Note on the 10th Anniversary of the Canada–Korea Free Trade Agreement](https://www.asiapacific.ca/publication/background-note-10th-anniversary-canada-korea-free-trade-agreement-2025) — **APFC**, Oct. 2025 (with Hyun Kim and Jeehye Kim).
 * [An Entrepreneurial State in Green Transition: Korea’s Energy Security and Canada–ROK Co-operation](https://www.cgai.ca/an_entrepreneurial_state_in_green_transition_koreas_energy_security_and_canada_rok_co_operation)” — **Canadian Global Affairs Institute (CGAI)**, Nov. 2023.
