@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-[Download CV](Park_CV_202604.pdf)
+[Download CV](CV_Sun Park.docx.pdf)
