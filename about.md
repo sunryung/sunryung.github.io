@@ -9,7 +9,7 @@ I am a political scientist specializing in the political economy of green indust
 Focusing on South Korea, Japan, and Taiwan, my book project analyzes how policy elites reconcile decarbonization goals with industrial strategy, energy security concerns, and shifting global supply chains. My other projects include analysis on how governments and industries strategically respond to pressures arising from the US–China technological rivalry and the reconfiguration of EV and battery supply chains.
 
 ### Professional Path
-Currently, I am a **Senior Research Specialist at the Asia Pacific Foundation of Canada (APFC)**, where I contribute to policy research aligned with Canada’s Indo-Pacific Strategy and energy security. 
+Currently, I am a **Senior Research Specialist at the Asia Pacific Foundation of Canada (APFC)**, where I contribute to policy research aligned with energy security and Canada’s cooperation with its Indo-Pacific partners. I am also a **Research Associate at the School of Public Policy and Global Affairs (SPPGA), UBC**.
 
 I completed my Ph.D. in Political Science at the University of British Columbia (2025). My dissertation, *Race to Go Green: Three Pathways in Green Industrial Revolution*, examined the intersection of elite cognitive shifts in green governance across East Asia. My academic foundation includes an M.A. and B.A. in Political Science from Korea University, with a double major in Politics, Economics, and Law.
 
